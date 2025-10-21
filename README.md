@@ -54,7 +54,7 @@ This project represents a personal challenge: learning by doing, improving throu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Spidey_Tube.git
+   git clone https://github.com/axilyaai/Spidey_Tube.git
    
 Open the project in Android Studio.
 

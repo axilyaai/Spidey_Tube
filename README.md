@@ -44,9 +44,9 @@ An Android application inspired by the Spider-Man universe — featuring a dynam
 
 ## 🧠 Project Vision
 
-Spidey_Tube aims to combine creativity and technology —  
-bringing together superhero aesthetics and practical Android development practices.  
-It serves as both a fun experimental app and a solid base for future content-sharing platforms.
+Spidey_Tube is a personal learning project — a step forward in experimenting, improving, and building real-world Android development skills.  
+
+This project represents a personal challenge: learning by doing, improving through iteration, and moving one step further in every build.
 
 ---
 

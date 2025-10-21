@@ -60,7 +60,7 @@ Open the project in Android Studio.
 
 Sync Gradle and run the app on an emulator or device.
 
-🕷️ Author
-Ali Sefa Akkaş
-Programmer
+🕷️ Author:
+Ali Sefa Akkaş,
+Programmer,
 “With great power, comes great debugging.” 

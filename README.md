@@ -12,9 +12,6 @@ An Android application inspired by the Spider-Man universe — featuring a dynam
 - **Home Feed with Video List:**  
   A clean, scrollable `RecyclerView` displaying multiple videos — similar to YouTube’s home feed style.
 
-- **Future Firebase Integration:**  
-  Planned implementation for uploading and streaming videos directly from Firebase Storage and Firestore.
-
 - **Object-Oriented Design:**  
   Each animation and functional module is managed within its own class for cleaner and modular code structure.
 
@@ -29,7 +26,6 @@ An Android application inspired by the Spider-Man universe — featuring a dynam
 - **Framework:** Android Jetpack
 - **UI Components:** RecyclerView, VideoView, Lottie Animations, BottomNavigationView
 - **Architecture:** MVVM-ready modular design
-- **Upcoming:** Firebase Storage & Firestore Integration
 
 ---
 
@@ -37,8 +33,6 @@ An Android application inspired by the Spider-Man universe — featuring a dynam
 
 - **Login Screen** – Custom Spider-Man web-shoot animation before login
 - **Home Screen** – Video feed layout using RecyclerView
-- **Upload (Coming Soon)** – Select and upload videos to the cloud
-- **Profile (Planned)** – Display user info, settings, and statistics
 
 ---
 
